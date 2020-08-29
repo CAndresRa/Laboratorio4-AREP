@@ -9,7 +9,7 @@ Para el desarrollo del proyecto se utilizo **Maven** como una herramienta para l
 
 * Utilizar `mvn package` para la generacion del fichero .jar con los .class compilados.
 
-* Una vez verificado mediante el `mvn package` ingresar el siguiente comando en el terminal para iniciar el programa:
+* Una vez verificado mediante el `mvn package` ingresar el siguiente comando en el terminal para iniciar el servidor:
 
 `java -cp target/classes co.edu.escuelaing.sparkd.microspring.MicroSpringBoot co.edu.escuelaing.sparkd.microspring.component.HelloController`
 
