@@ -20,3 +20,9 @@ Los recursos disponibles se encuentran en:
 * http://localhost:36000/Apps/hello
 * http://localhost:36000/Apps/pi
 * http://localhost:36000/Apps/webapp
+
+## Diagrama de arquitectura generado.
+
+![](https://github.com/CAndresRa/Laboratorio4-AREP/blob/master/A.png)
+
+El siguiente diagrama muestra la implementacion de un servidor HTTP, el cual recibe solicitudes mediante el browser, estas solicitudes son enviadas a un endpoint definido en la clase HelloController y se le envia al cliente el recurso solicitado.
